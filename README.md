@@ -43,5 +43,7 @@ The project includes dataset creation, loading, and basic analysis using Python.
 3. The dataset will be generated and displayed
 
 ### Option 2: Python Script
+
 ```bash
 python dataset_generator.py
+---
